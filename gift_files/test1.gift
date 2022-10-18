@@ -1,0 +1,29 @@
+Is this True? {T}
+
+
+// This is a test comment for Q2
+Mahatma Gandhi's birthday is an Indian holiday on {
+~15th
+~3rd
+=2nd
+} of October.
+
+Since {
+  ~495 AD
+  =1066 AD
+  ~1215 AD
+  ~ 43 AD
+} the town of Hastings England has been "famous with visitors".
+
+//  [id:123] [tag:basic] [tag:set 1]
+What is the value of pi (to 3 decimal places)? {#3.141..3.142}.
+
+
+// question: 914  name: What's 2 plus 2? 
+::What's 2 plus 2?::What's 2 plus 2?{#
+    =4:0#
+}
+
+::Kanji Origins::Japanese characters originally
+came from what country? {=China}
+
